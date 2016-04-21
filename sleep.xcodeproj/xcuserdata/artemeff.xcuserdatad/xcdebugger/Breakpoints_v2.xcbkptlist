@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "sleep/ScheduleView.swift"
+            timestampString = "482858818.809453"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ScheduleView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sleep.ScheduleView.changeValueCallback.getter : (Swift.Int) -&gt; ()"
+                  moduleName = "sleep"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemeff/work/swift/sleep/sleep/ScheduleView.swift"
+                  timestampString = "482859057.509647"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sleep.ScheduleView.changeValueCallback.setter : (Swift.Int) -&gt; ()"
+                  moduleName = "sleep"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemeff/work/swift/sleep/sleep/ScheduleView.swift"
+                  timestampString = "482859057.509865"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sleep.ScheduleView.init (frame : __C.CGRect) -&gt; sleep.ScheduleView"
+                  moduleName = "sleep"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemeff/work/swift/sleep/sleep/ScheduleView.swift"
+                  timestampString = "482859057.509992"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sleep.ScheduleView.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;sleep.ScheduleView&gt;"
+                  moduleName = "sleep"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemeff/work/swift/sleep/sleep/ScheduleView.swift"
+                  timestampString = "482859057.510133"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "sleep.ScheduleView.(changeValueCallback : (Swift.Int) -&gt; ()).(variable initialization expression).(closure #1)"
+                  moduleName = "sleep"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artemeff/work/swift/sleep/sleep/ScheduleView.swift"
+                  timestampString = "482859057.510283"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
