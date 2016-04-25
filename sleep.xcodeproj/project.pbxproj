@@ -475,6 +475,7 @@
 				CD1EE9171CC79F3C002FF1FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CD1EE9181CC79F3C002FF1FC /* Build configuration list for PBXNativeTarget "sleepTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +484,7 @@
 				CD1EE91A1CC79F3C002FF1FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CD1EE91B1CC79F3C002FF1FC /* Build configuration list for PBXNativeTarget "sleepUITests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +493,7 @@
 				CD1EE91D1CC79F3C002FF1FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
