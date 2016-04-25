@@ -2,16 +2,12 @@
 
 ---
 
-Schedule to sleep your mac from status bar
+Schedule to sleep your mac from status bar. Download latest version in [releases](https://github.com/artemeff/sleep/releases).
 
 ---
 
 ![Disabled schedule](/screenshots/1.png "Disabled schedule")
 ![With sleep after 15 minutes](/screenshots/2.png "With sleep after 15 minutes")
-
----
-
-To use this app - open project in XCode and compile. Soon there will be compiled binaries.
 
 ---
 
